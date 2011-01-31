@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1190.551px" height="841.89px" viewBox="0 0 1190.551 841.89" enable-background="new 0 0 1190.551 841.89"
+	 xml:space="preserve">
+<path fill="#FFFFFF" stroke="#0000FF" stroke-width="0.1" d="M324.885,62.193"/>
+<path fill="#FFFFFF" stroke="#000000" d="M201.563,737.73"/>
+<rect x="22.044" y="29.177" fill="none" width="173.333" height="360.843"/>
+<text transform="matrix(1 0 0 1 22.0439 41.957)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="18">Clampalamp v0.21</tspan><tspan x="0" y="28.8" font-family="'Myriad-Roman'" font-size="12">Material:</tspan><tspan x="0" y="43.2" font-family="'Myriad-Roman'" font-size="12">3mm acrylic/</tspan><tspan x="0" y="57.6" font-family="'Myriad-Roman'" font-size="12">2mm aluminium</tspan><tspan x="0" y="86.4" font-family="'Myriad-Roman'" font-size="12">Process:</tspan><tspan x="0" y="100.8" font-family="'Myriad-Roman'" font-size="12">Laser cut / CNC milled</tspan><tspan x="0" y="129.6" font-family="'Myriad-Roman'" font-size="12">Key:</tspan><tspan x="0" y="144" font-family="'Myriad-Roman'" font-size="12">blue = thru cut </tspan><tspan x="0" y="172.8" font-family="'Myriad-Roman'" font-size="12">License:</tspan><tspan x="0" y="187.2" font-family="'Myriad-Roman'" font-size="12">Creative Commons SA-BY 3.0 </tspan><tspan x="0" y="201.6" font-family="'Myriad-Roman'" font-size="12">License</tspan><tspan x="0" y="216" font-family="'Myriad-Roman'" font-size="12">(may be reused or modified for </tspan><tspan x="0" y="230.4" font-family="'Myriad-Roman'" font-size="12">any use, including commercial)</tspan><tspan x="0" y="259.2" font-family="'Myriad-Roman'" font-size="12">Development/support:</tspan><tspan x="0" y="273.6" font-family="'Myriad-Roman'" font-size="12">www.openthing.org/products/cla</tspan><tspan x="0" y="288" font-family="'Myriad-Roman'" font-size="12">mpalamp</tspan></text>
+<g>
+	<g id="CIRCLE">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M440.197,742.967
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S440.197,744.141,440.197,742.967
+			L440.197,742.967L440.197,742.967z"/>
+	</g>
+	<g id="CIRCLE_1_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M437.313,726.212
+			c0-1.174-0.952-2.126-2.125-2.126s-2.125,0.952-2.125,2.126c0,1.173,0.951,2.125,2.125,2.125S437.313,727.385,437.313,726.212
+			L437.313,726.212L437.313,726.212z"/>
+	</g>
+	<g id="CIRCLE_2_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M434.429,709.456
+			c0-1.173-0.952-2.125-2.125-2.125s-2.125,0.952-2.125,2.125c0,1.174,0.951,2.126,2.125,2.126S434.429,710.63,434.429,709.456
+			L434.429,709.456L434.429,709.456z"/>
+	</g>
+	<g id="CIRCLE_3_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M431.544,692.701
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S431.544,693.875,431.544,692.701
+			L431.544,692.701L431.544,692.701z"/>
+	</g>
+	<g id="CIRCLE_4_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M428.66,675.945
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S428.66,677.119,428.66,675.945
+			L428.66,675.945L428.66,675.945z"/>
+	</g>
+	<g id="CIRCLE_5_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M425.776,659.19
+			c0-1.174-0.952-2.126-2.125-2.126s-2.125,0.952-2.125,2.126s0.951,2.125,2.125,2.125S425.776,660.364,425.776,659.19
+			L425.776,659.19L425.776,659.19z"/>
+	</g>
+	<g id="CIRCLE_6_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M422.892,642.436
+			c0-1.174-0.952-2.126-2.125-2.126s-2.125,0.952-2.125,2.126s0.951,2.125,2.125,2.125S422.892,643.609,422.892,642.436
+			L422.892,642.436L422.892,642.436z"/>
+	</g>
+	<g id="CIRCLE_7_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M420.007,625.68
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S420.007,626.854,420.007,625.68
+			L420.007,625.68L420.007,625.68z"/>
+	</g>
+	<g id="CIRCLE_8_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M417.123,608.924
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S417.123,610.098,417.123,608.924
+			L417.123,608.924L417.123,608.924z"/>
+	</g>
+	<g id="CIRCLE_9_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M414.239,592.169
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S414.239,593.343,414.239,592.169
+			L414.239,592.169L414.239,592.169z"/>
+	</g>
+	<g id="CIRCLE_10_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M411.354,575.414
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S411.354,576.588,411.354,575.414
+			L411.354,575.414L411.354,575.414z"/>
+	</g>
+	<g id="CIRCLE_11_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M408.47,558.658
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S408.47,559.832,408.47,558.658
+			L408.47,558.658L408.47,558.658z"/>
+	</g>
+	<g id="CIRCLE_12_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M405.586,541.902
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.126,2.125,2.126S405.586,543.076,405.586,541.902
+			L405.586,541.902L405.586,541.902z"/>
+	</g>
+	<g id="CIRCLE_13_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M402.702,525.147
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.126,2.125,2.126S402.702,526.321,402.702,525.147
+			L402.702,525.147L402.702,525.147z"/>
+	</g>
+	<g id="CIRCLE_14_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M399.817,508.393
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S399.817,509.566,399.817,508.393
+			L399.817,508.393L399.817,508.393z"/>
+	</g>
+	<g id="CIRCLE_15_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M396.933,491.637
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S396.933,492.811,396.933,491.637
+			L396.933,491.637L396.933,491.637z"/>
+	</g>
+	<g id="CIRCLE_16_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M394.049,474.881
+			c0-1.173-0.952-2.125-2.125-2.125s-2.125,0.952-2.125,2.125c0,1.174,0.951,2.126,2.125,2.126S394.049,476.055,394.049,474.881
+			L394.049,474.881L394.049,474.881z"/>
+	</g>
+	<g id="CIRCLE_17_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M391.165,458.126
+			c0-1.173-0.952-2.125-2.125-2.125s-2.125,0.952-2.125,2.125c0,1.174,0.951,2.126,2.125,2.126S391.165,459.3,391.165,458.126
+			L391.165,458.126L391.165,458.126z"/>
+	</g>
+	<g id="CIRCLE_18_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M388.28,441.371
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S388.28,442.545,388.28,441.371
+			L388.28,441.371L388.28,441.371z"/>
+	</g>
+	<g id="CIRCLE_19_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M276.005,412.082
+			c0-1.174-0.952-2.125-2.125-2.125c-1.174,0-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125
+			C275.053,414.207,276.005,413.256,276.005,412.082L276.005,412.082L276.005,412.082z"/>
+	</g>
+	<g id="CIRCLE_20_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M293.007,412.082
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S293.007,413.256,293.007,412.082
+			L293.007,412.082L293.007,412.082z"/>
+	</g>
+	<g id="CIRCLE_21_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M310.008,412.082
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125S310.008,413.256,310.008,412.082
+			L310.008,412.082L310.008,412.082z"/>
+	</g>
+	<g id="CIRCLE_22_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M378.016,412.082
+			c0-1.174-0.952-2.125-2.125-2.125c-1.173,0-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125
+			C377.064,414.207,378.016,413.256,378.016,412.082L378.016,412.082L378.016,412.082z"/>
+	</g>
+	<g id="CIRCLE_23_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M361.014,412.082
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125S361.014,413.256,361.014,412.082
+			L361.014,412.082L361.014,412.082z"/>
+	</g>
+	<g id="CIRCLE_24_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M344.012,412.082
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S344.012,413.256,344.012,412.082
+			L344.012,412.082L344.012,412.082z"/>
+	</g>
+	<g id="CIRCLE_25_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M365.973,355.409
+			c0-22.692-18.396-41.087-41.088-41.087c-22.692,0-41.087,18.395-41.087,41.087s18.396,41.088,41.087,41.088
+			C347.577,396.497,365.973,378.102,365.973,355.409L365.973,355.409L365.973,355.409z"/>
+	</g>
+	<g id="LINE_1_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="261.128" y1="362.494" x2="268.657" y2="362.494"/>
+	</g>
+	<g id="ARC">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M261.128,348.325
+			c-3.913,0-7.084,3.172-7.084,7.084c0,3.913,3.171,7.085,7.084,7.085l0,0"/>
+	</g>
+	<g id="LINE_2_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="268.657" y1="348.325" x2="261.128" y2="348.325"/>
+	</g>
+	<g id="ARC_1_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M381.113,348.325
+			c-3.913-31.054-32.258-53.056-63.313-49.144c-24.873,2.426-46.717,24.271-49.144,49.144"/>
+	</g>
+	<g id="LINE_3_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="388.642" y1="348.325" x2="381.113" y2="348.325"/>
+	</g>
+	<g id="ARC_2_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M388.642,362.494
+			c3.913,0,7.084-3.172,7.084-7.085c0-3.912-3.171-7.084-7.084-7.084l0,0"/>
+	</g>
+	<g id="LINE_4_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="381.113" y1="362.494" x2="388.642" y2="362.494"/>
+	</g>
+	<g id="LINE_5_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="381.113" y1="412.082" x2="381.113" y2="362.494"/>
+	</g>
+	<g id="ARC_3_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M381.113,412.082
+			c10.703,29.021,42.954,44.102,72.087,33.707"/>
+	</g>
+	<g id="LINE_6_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="548.217" y1="713.598" x2="453.2" y2="445.789"/>
+	</g>
+	<g id="LINE_7_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="439.647" y1="752.117" x2="548.217" y2="713.598"/>
+	</g>
+	<g id="LINE_8_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="210.123" y1="752.117" x2="439.647" y2="752.117"/>
+	</g>
+	<g id="LINE_9_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="101.553" y1="713.598" x2="210.123" y2="752.117"/>
+	</g>
+	<g id="LINE_10_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="196.57" y1="445.789" x2="101.553" y2="713.598"/>
+	</g>
+	<g id="ARC_4_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M196.57,445.789
+			c29.133,10.395,61.384-4.686,72.087-33.707"/>
+	</g>
+	<g id="LINE_11_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="268.657" y1="362.494" x2="268.657" y2="412.082"/>
+	</g>
+	<g id="CIRCLE_26_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M327.01,412.082
+			c0-1.174-0.952-2.125-2.125-2.125c-1.173,0-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125
+			C326.059,414.207,327.01,413.256,327.01,412.082L327.01,412.082L327.01,412.082z"/>
+	</g>
+	<g id="CIRCLE_27_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M335.511,412.082
+			c0-1.174-0.952-2.125-2.125-2.125c-1.173,0-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125
+			C334.56,414.207,335.511,413.256,335.511,412.082L335.511,412.082L335.511,412.082z"/>
+	</g>
+	<g id="CIRCLE_28_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M352.513,412.082
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125S352.513,413.256,352.513,412.082
+			L352.513,412.082L352.513,412.082z"/>
+	</g>
+	<g id="CIRCLE_29_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M369.515,412.082
+			c0-1.174-0.952-2.125-2.125-2.125c-1.174,0-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125
+			C368.563,414.207,369.515,413.256,369.515,412.082L369.515,412.082L369.515,412.082z"/>
+	</g>
+	<g id="CIRCLE_30_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M318.509,412.082
+			c0-1.174-0.952-2.125-2.125-2.125c-1.174,0-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125
+			C317.558,414.207,318.509,413.256,318.509,412.082L318.509,412.082L318.509,412.082z"/>
+	</g>
+	<g id="CIRCLE_31_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M301.507,412.082
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S301.507,413.256,301.507,412.082
+			L301.507,412.082L301.507,412.082z"/>
+	</g>
+	<g id="CIRCLE_32_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M284.506,412.082
+			c0-1.174-0.952-2.125-2.125-2.125c-1.173,0-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125
+			C283.554,414.207,284.506,413.256,284.506,412.082L284.506,412.082L284.506,412.082z"/>
+	</g>
+	<g id="CIRCLE_33_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M267.183,432.993
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S267.183,434.167,267.183,432.993
+			L267.183,432.993L267.183,432.993z"/>
+	</g>
+	<g id="CIRCLE_34_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M265.74,441.371
+			c0-1.174-0.952-2.125-2.125-2.125c-1.174,0-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125
+			C264.789,443.496,265.74,442.545,265.74,441.371L265.74,441.371L265.74,441.371z"/>
+	</g>
+	<g id="CIRCLE_35_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M264.298,449.748
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S264.298,450.922,264.298,449.748
+			L264.298,449.748L264.298,449.748z"/>
+	</g>
+	<g id="CIRCLE_36_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M262.856,458.126
+			c0-1.173-0.951-2.125-2.125-2.125s-2.125,0.952-2.125,2.125c0,1.174,0.952,2.126,2.125,2.126S262.856,459.3,262.856,458.126
+			L262.856,458.126L262.856,458.126z"/>
+	</g>
+	<g id="CIRCLE_37_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M261.414,466.504
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S261.414,467.678,261.414,466.504
+			L261.414,466.504L261.414,466.504z"/>
+	</g>
+	<g id="CIRCLE_38_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M259.972,474.881
+			c0-1.173-0.952-2.125-2.125-2.125c-1.174,0-2.125,0.952-2.125,2.125c0,1.174,0.952,2.126,2.125,2.126
+			C259.02,477.007,259.972,476.055,259.972,474.881L259.972,474.881L259.972,474.881z"/>
+	</g>
+	<g id="CIRCLE_39_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M258.53,483.26
+			c0-1.174-0.952-2.126-2.125-2.126s-2.125,0.952-2.125,2.126s0.951,2.125,2.125,2.125S258.53,484.434,258.53,483.26L258.53,483.26
+			L258.53,483.26z"/>
+	</g>
+	<g id="CIRCLE_40_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M257.087,491.637
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125S257.087,492.811,257.087,491.637
+			L257.087,491.637L257.087,491.637z"/>
+	</g>
+	<g id="CIRCLE_41_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M255.646,500.015
+			c0-1.174-0.952-2.126-2.125-2.126s-2.125,0.952-2.125,2.126s0.951,2.125,2.125,2.125S255.646,501.188,255.646,500.015
+			L255.646,500.015L255.646,500.015z"/>
+	</g>
+	<g id="CIRCLE_42_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M254.203,508.393
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125S254.203,509.566,254.203,508.393
+			L254.203,508.393L254.203,508.393z"/>
+	</g>
+	<g id="CIRCLE_43_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M252.761,516.77
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S252.761,517.943,252.761,516.77
+			L252.761,516.77L252.761,516.77z"/>
+	</g>
+	<g id="CIRCLE_44_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M251.319,525.147
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.126,2.125,2.126S251.319,526.321,251.319,525.147
+			L251.319,525.147L251.319,525.147z"/>
+	</g>
+	<g id="CIRCLE_45_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M249.877,533.525
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S249.877,534.699,249.877,533.525
+			L249.877,533.525L249.877,533.525z"/>
+	</g>
+	<g id="CIRCLE_46_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M248.435,541.902
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.126,2.125,2.126S248.435,543.076,248.435,541.902
+			L248.435,541.902L248.435,541.902z"/>
+	</g>
+	<g id="CIRCLE_47_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M246.993,550.281
+			c0-1.174-0.952-2.126-2.125-2.126c-1.173,0-2.125,0.952-2.125,2.126c0,1.173,0.952,2.125,2.125,2.125
+			C246.041,552.406,246.993,551.454,246.993,550.281L246.993,550.281L246.993,550.281z"/>
+	</g>
+	<g id="CIRCLE_48_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M245.55,558.658
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125S245.55,559.832,245.55,558.658
+			L245.55,558.658L245.55,558.658z"/>
+	</g>
+	<g id="CIRCLE_49_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M244.108,567.036
+			c0-1.174-0.952-2.126-2.125-2.126s-2.125,0.952-2.125,2.126c0,1.173,0.951,2.125,2.125,2.125S244.108,568.209,244.108,567.036
+			L244.108,567.036L244.108,567.036z"/>
+	</g>
+	<g id="CIRCLE_50_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M242.666,575.414
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125S242.666,576.588,242.666,575.414
+			L242.666,575.414L242.666,575.414z"/>
+	</g>
+	<g id="CIRCLE_51_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M241.224,583.791
+			c0-1.174-0.952-2.125-2.125-2.125c-1.173,0-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125
+			C240.272,585.916,241.224,584.965,241.224,583.791L241.224,583.791L241.224,583.791z"/>
+	</g>
+	<g id="CIRCLE_52_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M239.782,592.169
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125S239.782,593.343,239.782,592.169
+			L239.782,592.169L239.782,592.169z"/>
+	</g>
+	<g id="CIRCLE_53_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M238.34,600.547
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S238.34,601.721,238.34,600.547
+			L238.34,600.547L238.34,600.547z"/>
+	</g>
+	<g id="CIRCLE_54_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M236.897,608.924
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125S236.897,610.098,236.897,608.924
+			L236.897,608.924L236.897,608.924z"/>
+	</g>
+	<g id="CIRCLE_55_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M235.456,617.302
+			c0-1.173-0.952-2.125-2.125-2.125c-1.173,0-2.125,0.952-2.125,2.125c0,1.174,0.952,2.126,2.125,2.126
+			C234.504,619.428,235.456,618.476,235.456,617.302L235.456,617.302L235.456,617.302z"/>
+	</g>
+	<g id="CIRCLE_56_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M234.013,625.68
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125S234.013,626.854,234.013,625.68
+			L234.013,625.68L234.013,625.68z"/>
+	</g>
+	<g id="CIRCLE_57_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M232.571,634.057
+			c0-1.173-0.952-2.125-2.125-2.125s-2.125,0.952-2.125,2.125c0,1.174,0.951,2.126,2.125,2.126S232.571,635.23,232.571,634.057
+			L232.571,634.057L232.571,634.057z"/>
+	</g>
+	<g id="CIRCLE_58_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M231.129,642.436
+			c0-1.174-0.951-2.126-2.125-2.126s-2.125,0.952-2.125,2.126s0.952,2.125,2.125,2.125S231.129,643.609,231.129,642.436
+			L231.129,642.436L231.129,642.436z"/>
+	</g>
+	<g id="CIRCLE_59_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M229.687,650.813
+			c0-1.174-0.952-2.125-2.125-2.125c-1.173,0-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125
+			C228.735,652.938,229.687,651.986,229.687,650.813L229.687,650.813L229.687,650.813z"/>
+	</g>
+	<g id="CIRCLE_60_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M228.245,659.19
+			c0-1.174-0.951-2.126-2.125-2.126s-2.125,0.952-2.125,2.126s0.952,2.125,2.125,2.125S228.245,660.364,228.245,659.19
+			L228.245,659.19L228.245,659.19z"/>
+	</g>
+	<g id="CIRCLE_61_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M226.803,667.568
+			c0-1.174-0.952-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S226.803,668.742,226.803,667.568
+			L226.803,667.568L226.803,667.568z"/>
+	</g>
+	<g id="CIRCLE_62_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M225.36,675.945
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125S225.36,677.119,225.36,675.945
+			L225.36,675.945L225.36,675.945z"/>
+	</g>
+	<g id="CIRCLE_63_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M223.918,684.323
+			c0-1.174-0.952-2.125-2.125-2.125c-1.173,0-2.125,0.951-2.125,2.125s0.952,2.126,2.125,2.126
+			C222.967,686.449,223.918,685.497,223.918,684.323L223.918,684.323L223.918,684.323z"/>
+	</g>
+	<g id="CIRCLE_64_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M222.476,692.701
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125S222.476,693.875,222.476,692.701
+			L222.476,692.701L222.476,692.701z"/>
+	</g>
+	<g id="CIRCLE_65_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M221.034,701.078
+			c0-1.174-0.952-2.125-2.125-2.125c-1.173,0-2.125,0.951-2.125,2.125s0.952,2.126,2.125,2.126
+			C220.083,703.204,221.034,702.252,221.034,701.078L221.034,701.078L221.034,701.078z"/>
+	</g>
+	<g id="CIRCLE_66_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M219.592,709.456
+			c0-1.173-0.951-2.125-2.125-2.125s-2.125,0.952-2.125,2.125c0,1.174,0.952,2.126,2.125,2.126S219.592,710.63,219.592,709.456
+			L219.592,709.456L219.592,709.456z"/>
+	</g>
+	<g id="CIRCLE_67_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M218.15,717.834
+			c0-1.174-0.952-2.125-2.125-2.125c-1.173,0-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125
+			C217.198,719.959,218.15,719.008,218.15,717.834L218.15,717.834L218.15,717.834z"/>
+	</g>
+	<g id="CIRCLE_68_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M216.708,726.212
+			c0-1.174-0.951-2.126-2.125-2.126s-2.125,0.952-2.125,2.126c0,1.173,0.952,2.125,2.125,2.125S216.708,727.385,216.708,726.212
+			L216.708,726.212L216.708,726.212z"/>
+	</g>
+	<g id="CIRCLE_69_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M215.266,734.59
+			c0-1.174-0.952-2.126-2.125-2.126c-1.173,0-2.125,0.952-2.125,2.126s0.952,2.125,2.125,2.125
+			C214.314,736.715,215.266,735.764,215.266,734.59L215.266,734.59L215.266,734.59z"/>
+	</g>
+	<g id="CIRCLE_70_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M213.823,742.967
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125S213.823,744.141,213.823,742.967
+			L213.823,742.967L213.823,742.967z"/>
+	</g>
+	<g id="CIRCLE_71_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M386.838,432.993
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125S386.838,434.167,386.838,432.993
+			L386.838,432.993L386.838,432.993z"/>
+	</g>
+	<g id="CIRCLE_72_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M389.722,449.748
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125S389.722,450.922,389.722,449.748
+			L389.722,449.748L389.722,449.748z"/>
+	</g>
+	<g id="CIRCLE_73_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M392.606,466.504
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125S392.606,467.678,392.606,466.504
+			L392.606,466.504L392.606,466.504z"/>
+	</g>
+	<g id="CIRCLE_74_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M395.491,483.26
+			c0-1.174-0.951-2.126-2.125-2.126s-2.125,0.952-2.125,2.126s0.952,2.125,2.125,2.125S395.491,484.434,395.491,483.26
+			L395.491,483.26L395.491,483.26z"/>
+	</g>
+	<g id="CIRCLE_75_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M398.375,500.015
+			c0-1.174-0.952-2.126-2.125-2.126c-1.174,0-2.125,0.952-2.125,2.126s0.952,2.125,2.125,2.125
+			C397.423,502.14,398.375,501.188,398.375,500.015L398.375,500.015L398.375,500.015z"/>
+	</g>
+	<g id="CIRCLE_76_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M401.259,516.77
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125S401.259,517.943,401.259,516.77
+			L401.259,516.77L401.259,516.77z"/>
+	</g>
+	<g id="CIRCLE_77_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M404.144,533.525
+			c0-1.174-0.952-2.125-2.125-2.125c-1.174,0-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125
+			C403.192,535.65,404.144,534.699,404.144,533.525L404.144,533.525L404.144,533.525z"/>
+	</g>
+	<g id="CIRCLE_78_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M407.028,550.281
+			c0-1.174-0.952-2.126-2.125-2.126c-1.174,0-2.125,0.952-2.125,2.126c0,1.173,0.952,2.125,2.125,2.125
+			C406.076,552.406,407.028,551.454,407.028,550.281L407.028,550.281L407.028,550.281z"/>
+	</g>
+	<g id="CIRCLE_79_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M409.912,567.036
+			c0-1.174-0.952-2.126-2.125-2.126c-1.174,0-2.125,0.952-2.125,2.126c0,1.173,0.952,2.125,2.125,2.125
+			C408.96,569.161,409.912,568.209,409.912,567.036L409.912,567.036L409.912,567.036z"/>
+	</g>
+	<g id="CIRCLE_80_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M412.796,583.791
+			c0-1.174-0.952-2.125-2.125-2.125c-1.174,0-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125
+			C411.845,585.916,412.796,584.965,412.796,583.791L412.796,583.791L412.796,583.791z"/>
+	</g>
+	<g id="CIRCLE_81_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M415.681,600.547
+			c0-1.174-0.952-2.125-2.125-2.125c-1.174,0-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125
+			C414.729,602.672,415.681,601.721,415.681,600.547L415.681,600.547L415.681,600.547z"/>
+	</g>
+	<g id="CIRCLE_82_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M418.565,617.302
+			c0-1.173-0.952-2.125-2.125-2.125c-1.174,0-2.125,0.952-2.125,2.125c0,1.174,0.952,2.126,2.125,2.126
+			C417.613,619.428,418.565,618.476,418.565,617.302L418.565,617.302L418.565,617.302z"/>
+	</g>
+	<g id="CIRCLE_83_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M421.449,634.057
+			c0-1.173-0.952-2.125-2.125-2.125c-1.174,0-2.125,0.952-2.125,2.125c0,1.174,0.952,2.126,2.125,2.126
+			C420.498,636.183,421.449,635.23,421.449,634.057L421.449,634.057L421.449,634.057z"/>
+	</g>
+	<g id="CIRCLE_84_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M424.333,650.813
+			c0-1.174-0.952-2.125-2.125-2.125c-1.174,0-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125
+			C423.382,652.938,424.333,651.986,424.333,650.813L424.333,650.813L424.333,650.813z"/>
+	</g>
+	<g id="CIRCLE_85_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M427.218,667.568
+			c0-1.174-0.952-2.125-2.125-2.125c-1.174,0-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125
+			C426.266,669.693,427.218,668.742,427.218,667.568L427.218,667.568L427.218,667.568z"/>
+	</g>
+	<g id="CIRCLE_86_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M430.102,684.323
+			c0-1.174-0.952-2.125-2.125-2.125c-1.174,0-2.125,0.951-2.125,2.125s0.952,2.126,2.125,2.126
+			C429.15,686.449,430.102,685.497,430.102,684.323L430.102,684.323L430.102,684.323z"/>
+	</g>
+	<g id="CIRCLE_87_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M432.986,701.078
+			c0-1.174-0.952-2.125-2.125-2.125c-1.174,0-2.125,0.951-2.125,2.125s0.952,2.126,2.125,2.126
+			C432.035,703.204,432.986,702.252,432.986,701.078L432.986,701.078L432.986,701.078z"/>
+	</g>
+	<g id="CIRCLE_88_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M435.871,717.834
+			c0-1.174-0.952-2.125-2.125-2.125c-1.174,0-2.125,0.951-2.125,2.125s0.952,2.125,2.125,2.125
+			C434.919,719.959,435.871,719.008,435.871,717.834L435.871,717.834L435.871,717.834z"/>
+	</g>
+	<g id="CIRCLE_89_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M438.755,734.59
+			c0-1.174-0.952-2.126-2.125-2.126c-1.174,0-2.125,0.952-2.125,2.126s0.952,2.125,2.125,2.125
+			C437.803,736.715,438.755,735.764,438.755,734.59L438.755,734.59L438.755,734.59z"/>
+	</g>
+</g>
+<g>
+	<g id="CIRCLE_90_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M649.063,186.931
+			c0-1.174-0.953-2.125-2.127-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S649.063,188.105,649.063,186.931
+			L649.063,186.931L649.063,186.931z"/>
+	</g>
+	<g id="CIRCLE_91_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M649.063,169.929
+			c0-1.174-0.953-2.125-2.127-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S649.063,171.103,649.063,169.929
+			L649.063,169.929L649.063,169.929z"/>
+	</g>
+	<g id="CIRCLE_92_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M819.081,191.218
+			c0-1.174-0.951-2.125-2.125-2.125s-2.127,0.951-2.127,2.125s0.953,2.125,2.127,2.125S819.081,192.392,819.081,191.218
+			L819.081,191.218L819.081,191.218z"/>
+	</g>
+	<g id="CIRCLE_93_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M819.081,174.216
+			c0-1.174-0.951-2.125-2.125-2.125s-2.127,0.951-2.127,2.125s0.953,2.125,2.127,2.125S819.081,175.39,819.081,174.216
+			L819.081,174.216L819.081,174.216z"/>
+	</g>
+	<g id="CIRCLE_94_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M450.322,216.684
+			c0-1.174-0.951-2.125-2.125-2.125s-2.126,0.951-2.126,2.125s0.952,2.126,2.126,2.126S450.322,217.858,450.322,216.684
+			L450.322,216.684L450.322,216.684z"/>
+	</g>
+	<g id="CIRCLE_95_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M467.324,216.684
+			c0-1.174-0.952-2.125-2.125-2.125c-1.174,0-2.126,0.951-2.126,2.125s0.952,2.126,2.126,2.126
+			C466.372,218.81,467.324,217.858,467.324,216.684L467.324,216.684L467.324,216.684z"/>
+	</g>
+	<g id="CIRCLE_96_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M484.326,216.684
+			c0-1.174-0.952-2.125-2.126-2.125s-2.125,0.951-2.125,2.125s0.951,2.126,2.125,2.126S484.326,217.858,484.326,216.684
+			L484.326,216.684L484.326,216.684z"/>
+	</g>
+	<g id="CIRCLE_97_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M451.909,202.516
+			c0-1.174-0.951-2.126-2.125-2.126s-2.125,0.952-2.125,2.126s0.951,2.125,2.125,2.125S451.909,203.69,451.909,202.516
+			L451.909,202.516L451.909,202.516z"/>
+	</g>
+	<g id="CIRCLE_98_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M468.911,202.516
+			c0-1.174-0.951-2.126-2.125-2.126s-2.125,0.952-2.125,2.126s0.951,2.125,2.125,2.125S468.911,203.69,468.911,202.516
+			L468.911,202.516L468.911,202.516z"/>
+	</g>
+	<g id="CIRCLE_99_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M485.913,202.516
+			c0-1.174-0.951-2.126-2.125-2.126s-2.125,0.952-2.125,2.126s0.951,2.125,2.125,2.125S485.913,203.69,485.913,202.516
+			L485.913,202.516L485.913,202.516z"/>
+	</g>
+	<g id="CIRCLE_100_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M438.915,118.923
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.126,2.125,2.126S438.915,120.097,438.915,118.923
+			L438.915,118.923L438.915,118.923z"/>
+	</g>
+	<g id="CIRCLE_101_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M438.915,135.925
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S438.915,137.099,438.915,135.925
+			L438.915,135.925L438.915,135.925z"/>
+	</g>
+	<g id="CIRCLE_102_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M438.915,152.927
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S438.915,154.101,438.915,152.927
+			L438.915,152.927L438.915,152.927z"/>
+	</g>
+	<g id="CIRCLE_103_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M268.897,123.138
+			c0-1.174-0.951-2.126-2.125-2.126s-2.126,0.952-2.126,2.126s0.952,2.125,2.126,2.125S268.897,124.312,268.897,123.138
+			L268.897,123.138L268.897,123.138z"/>
+	</g>
+	<g id="CIRCLE_104_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M268.897,140.139
+			c0-1.173-0.951-2.125-2.125-2.125s-2.126,0.952-2.126,2.125c0,1.174,0.952,2.126,2.126,2.126S268.897,141.313,268.897,140.139
+			L268.897,140.139L268.897,140.139z"/>
+	</g>
+	<g id="LINE_12_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="497.942" y1="216.684" x2="499.358" y2="216.684"/>
+	</g>
+	<g id="ARC_5_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M584.368,216.684
+			c0-23.475-19.03-42.505-42.504-42.505c-23.475,0-42.506,19.03-42.506,42.505l0,0"/>
+	</g>
+	<g id="LINE_13_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="584.368" y1="216.684" x2="585.784" y2="216.684"/>
+	</g>
+	<g id="ARC_6_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M585.784,216.684
+			c0-24.257-19.664-43.921-43.92-43.921c-24.258,0-43.922,19.664-43.922,43.921l0,0"/>
+	</g>
+	<g id="CIRCLE_105_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M824.747,152.927
+			c0-4.304-3.488-7.792-7.791-7.792c-4.305,0-7.793,3.488-7.793,7.792s3.488,7.793,7.793,7.793
+			C821.259,160.72,824.747,157.231,824.747,152.927L824.747,152.927L824.747,152.927z"/>
+	</g>
+	<g id="CIRCLE_106_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M274.564,152.927
+			c0-4.304-3.489-7.792-7.792-7.792c-4.305,0-7.793,3.488-7.793,7.792s3.488,7.793,7.793,7.793
+			C271.075,160.72,274.564,157.231,274.564,152.927L274.564,152.927L274.564,152.927z"/>
+	</g>
+	<g id="CIRCLE_107_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M560.282,266.273
+			c0-10.173-8.246-18.419-18.418-18.419c-10.173,0-18.42,8.246-18.42,18.419c0,10.172,8.247,18.418,18.42,18.418
+			C552.036,284.691,560.282,276.445,560.282,266.273L560.282,266.273L560.282,266.273z"/>
+	</g>
+	<g id="CIRCLE_108_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M551.781,195.432
+			c0-5.478-4.44-9.918-9.917-9.918c-5.479,0-9.918,4.44-9.918,9.918s4.439,9.917,9.918,9.917
+			C547.341,205.349,551.781,200.91,551.781,195.432L551.781,195.432L551.781,195.432z"/>
+	</g>
+	<g id="ARC_7_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M644.329,201.382
+			c0.715-1.477,2.008-4.424,2.607-5.95"/>
+	</g>
+	<g id="ARC_8_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M644.329,201.382
+			c-0.322,0.603-0.578,1.739-0.543,2.422"/>
+	</g>
+	<g id="LINE_14_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="643.786" y1="203.804" x2="643.786" y2="215.396"/>
+	</g>
+	<g id="ARC_9_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M643.786,215.396
+			c-0.035,0.683,0.221,1.819,0.543,2.422"/>
+	</g>
+	<g id="ARC_10_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M439.397,217.818
+			c-26.761,56.591-2.579,124.16,54.012,150.921c56.59,26.761,124.16,2.579,150.92-54.012c14.506-26.632,14.506-70.276,0-96.909"/>
+	</g>
+	<g id="ARC_11_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M439.397,217.818
+			c0.324-0.603,0.578-1.739,0.544-2.422"/>
+	</g>
+	<g id="LINE_15_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="439.941" y1="215.396" x2="439.941" y2="203.804"/>
+	</g>
+	<g id="ARC_12_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M439.941,203.804
+			c0.034-0.683-0.22-1.819-0.544-2.422"/>
+	</g>
+	<g id="ARC_13_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M436.79,195.432
+			c0.602,1.526,1.893,4.474,2.607,5.95"/>
+	</g>
+	<g id="LINE_16_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="266.772" y1="195.432" x2="436.79" y2="195.432"/>
+	</g>
+	<g id="ARC_14_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M266.772,110.423
+			c-23.475,0-42.505,19.029-42.505,42.504s19.03,42.505,42.505,42.505l0,0"/>
+	</g>
+	<g id="LINE_17_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="266.772" y1="110.423" x2="436.79" y2="110.423"/>
+	</g>
+	<g id="ARC_15_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M646.937,110.423
+			c-23.475-58.031-89.547-86.044-147.578-62.57c-25.592,8.639-53.93,36.977-62.568,62.57"/>
+	</g>
+	<g id="LINE_18_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="646.937" y1="110.423" x2="816.956" y2="110.423"/>
+	</g>
+	<g id="ARC_16_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M816.956,195.432
+			c23.475,0,42.504-19.03,42.504-42.505s-19.029-42.504-42.504-42.504l0,0"/>
+	</g>
+	<g id="LINE_19_">
+		
+			<line fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" x1="646.937" y1="195.432" x2="816.956" y2="195.432"/>
+	</g>
+	<g id="CIRCLE_109_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M268.897,131.638
+			c0-1.174-0.951-2.125-2.125-2.125s-2.126,0.951-2.126,2.125s0.952,2.125,2.126,2.125S268.897,132.812,268.897,131.638
+			L268.897,131.638L268.897,131.638z"/>
+	</g>
+	<g id="CIRCLE_110_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M268.897,114.636
+			c0-1.174-0.951-2.125-2.125-2.125s-2.126,0.951-2.126,2.125s0.952,2.126,2.126,2.126S268.897,115.81,268.897,114.636
+			L268.897,114.636L268.897,114.636z"/>
+	</g>
+	<g id="CIRCLE_111_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M438.915,144.427
+			c0-1.174-0.951-2.126-2.125-2.126s-2.125,0.952-2.125,2.126c0,1.173,0.951,2.125,2.125,2.125S438.915,145.6,438.915,144.427
+			L438.915,144.427L438.915,144.427z"/>
+	</g>
+	<g id="CIRCLE_112_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M438.915,127.425
+			c0-1.174-0.951-2.126-2.125-2.126s-2.125,0.952-2.125,2.126s0.951,2.125,2.125,2.125S438.915,128.599,438.915,127.425
+			L438.915,127.425L438.915,127.425z"/>
+	</g>
+	<g id="CIRCLE_113_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M268.897,165.715
+			c0-1.173-0.951-2.125-2.125-2.125s-2.126,0.952-2.126,2.125c0,1.174,0.952,2.126,2.126,2.126S268.897,166.889,268.897,165.715
+			L268.897,165.715L268.897,165.715z"/>
+	</g>
+	<g id="CIRCLE_114_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M268.897,174.216
+			c0-1.174-0.951-2.125-2.125-2.125s-2.126,0.951-2.126,2.125s0.952,2.125,2.126,2.125S268.897,175.39,268.897,174.216
+			L268.897,174.216L268.897,174.216z"/>
+	</g>
+	<g id="CIRCLE_115_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M268.897,182.717
+			c0-1.174-0.951-2.125-2.125-2.125s-2.126,0.951-2.126,2.125s0.952,2.125,2.126,2.125S268.897,183.891,268.897,182.717
+			L268.897,182.717L268.897,182.717z"/>
+	</g>
+	<g id="CIRCLE_116_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M268.897,191.218
+			c0-1.174-0.951-2.125-2.125-2.125s-2.126,0.951-2.126,2.125s0.952,2.125,2.126,2.125S268.897,192.392,268.897,191.218
+			L268.897,191.218L268.897,191.218z"/>
+	</g>
+	<g id="CIRCLE_117_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M438.915,161.428
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.126,2.125,2.126S438.915,162.602,438.915,161.428
+			L438.915,161.428L438.915,161.428z"/>
+	</g>
+	<g id="CIRCLE_118_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M438.915,169.929
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S438.915,171.103,438.915,169.929
+			L438.915,169.929L438.915,169.929z"/>
+	</g>
+	<g id="CIRCLE_119_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M438.915,178.43
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S438.915,179.604,438.915,178.43
+			L438.915,178.43L438.915,178.43z"/>
+	</g>
+	<g id="CIRCLE_120_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M438.915,186.931
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S438.915,188.105,438.915,186.931
+			L438.915,186.931L438.915,186.931z"/>
+	</g>
+	<g id="CIRCLE_121_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M494.414,202.516
+			c0-1.174-0.952-2.126-2.126-2.126c-1.173,0-2.125,0.952-2.125,2.126s0.952,2.125,2.125,2.125
+			C493.462,204.641,494.414,203.69,494.414,202.516L494.414,202.516L494.414,202.516z"/>
+	</g>
+	<g id="CIRCLE_122_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M477.412,202.516
+			c0-1.174-0.951-2.126-2.125-2.126s-2.126,0.952-2.126,2.126s0.952,2.125,2.126,2.125S477.412,203.69,477.412,202.516
+			L477.412,202.516L477.412,202.516z"/>
+	</g>
+	<g id="CIRCLE_123_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M460.411,202.516
+			c0-1.174-0.952-2.126-2.126-2.126s-2.125,0.952-2.125,2.126s0.951,2.125,2.125,2.125S460.411,203.69,460.411,202.516
+			L460.411,202.516L460.411,202.516z"/>
+	</g>
+	<g id="CIRCLE_124_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M492.827,216.684
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.126,2.125,2.126S492.827,217.858,492.827,216.684
+			L492.827,216.684L492.827,216.684z"/>
+	</g>
+	<g id="CIRCLE_125_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M475.825,216.684
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.126,2.125,2.126S475.825,217.858,475.825,216.684
+			L475.825,216.684L475.825,216.684z"/>
+	</g>
+	<g id="CIRCLE_126_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M458.823,216.684
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.126,2.125,2.126S458.823,217.858,458.823,216.684
+			L458.823,216.684L458.823,216.684z"/>
+	</g>
+	<g id="CIRCLE_127_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M819.081,140.139
+			c0-1.173-0.951-2.125-2.125-2.125s-2.127,0.952-2.127,2.125c0,1.174,0.953,2.126,2.127,2.126S819.081,141.313,819.081,140.139
+			L819.081,140.139L819.081,140.139z"/>
+	</g>
+	<g id="CIRCLE_128_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M819.081,131.638
+			c0-1.174-0.951-2.125-2.125-2.125s-2.127,0.951-2.127,2.125s0.953,2.125,2.127,2.125S819.081,132.812,819.081,131.638
+			L819.081,131.638L819.081,131.638z"/>
+	</g>
+	<g id="CIRCLE_129_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M819.081,123.138
+			c0-1.174-0.951-2.126-2.125-2.126s-2.127,0.952-2.127,2.126s0.953,2.125,2.127,2.125S819.081,124.312,819.081,123.138
+			L819.081,123.138L819.081,123.138z"/>
+	</g>
+	<g id="CIRCLE_130_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M819.081,114.636
+			c0-1.174-0.951-2.125-2.125-2.125s-2.127,0.951-2.127,2.125s0.953,2.126,2.127,2.126S819.081,115.81,819.081,114.636
+			L819.081,114.636L819.081,114.636z"/>
+	</g>
+	<g id="CIRCLE_131_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M649.063,152.927
+			c0-1.174-0.953-2.125-2.127-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S649.063,154.101,649.063,152.927
+			L649.063,152.927L649.063,152.927z"/>
+	</g>
+	<g id="CIRCLE_132_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M649.063,144.427
+			c0-1.174-0.953-2.126-2.127-2.126s-2.125,0.952-2.125,2.126c0,1.173,0.951,2.125,2.125,2.125S649.063,145.6,649.063,144.427
+			L649.063,144.427L649.063,144.427z"/>
+	</g>
+	<g id="CIRCLE_133_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M649.063,135.925
+			c0-1.174-0.953-2.125-2.127-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S649.063,137.099,649.063,135.925
+			L649.063,135.925L649.063,135.925z"/>
+	</g>
+	<g id="CIRCLE_134_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M649.063,127.425
+			c0-1.174-0.953-2.126-2.127-2.126s-2.125,0.952-2.125,2.126s0.951,2.125,2.125,2.125S649.063,128.599,649.063,127.425
+			L649.063,127.425L649.063,127.425z"/>
+	</g>
+	<g id="CIRCLE_135_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M649.063,118.923
+			c0-1.174-0.953-2.125-2.127-2.125s-2.125,0.951-2.125,2.125s0.951,2.126,2.125,2.126S649.063,120.097,649.063,118.923
+			L649.063,118.923L649.063,118.923z"/>
+	</g>
+	<g id="CIRCLE_136_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M819.081,165.715
+			c0-1.173-0.951-2.125-2.125-2.125s-2.127,0.952-2.127,2.125c0,1.174,0.953,2.126,2.127,2.126S819.081,166.889,819.081,165.715
+			L819.081,165.715L819.081,165.715z"/>
+	</g>
+	<g id="CIRCLE_137_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M819.081,182.717
+			c0-1.174-0.951-2.125-2.125-2.125s-2.127,0.951-2.127,2.125s0.953,2.125,2.127,2.125S819.081,183.891,819.081,182.717
+			L819.081,182.717L819.081,182.717z"/>
+	</g>
+	<g id="CIRCLE_138_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M649.063,161.428
+			c0-1.174-0.953-2.125-2.127-2.125s-2.125,0.951-2.125,2.125s0.951,2.126,2.125,2.126S649.063,162.602,649.063,161.428
+			L649.063,161.428L649.063,161.428z"/>
+	</g>
+	<g id="CIRCLE_139_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M649.063,178.43
+			c0-1.174-0.953-2.125-2.127-2.125s-2.125,0.951-2.125,2.125s0.951,2.125,2.125,2.125S649.063,179.604,649.063,178.43
+			L649.063,178.43L649.063,178.43z"/>
+	</g>
+	<g id="CIRCLE_140_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M593.563,202.516
+			c0-1.174-0.951-2.126-2.125-2.126s-2.125,0.952-2.125,2.126s0.951,2.125,2.125,2.125S593.563,203.69,593.563,202.516
+			L593.563,202.516L593.563,202.516z"/>
+	</g>
+	<g id="CIRCLE_141_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M602.064,202.516
+			c0-1.174-0.952-2.126-2.126-2.126c-1.173,0-2.125,0.952-2.125,2.126s0.952,2.125,2.125,2.125
+			C601.112,204.641,602.064,203.69,602.064,202.516L602.064,202.516L602.064,202.516z"/>
+	</g>
+	<g id="CIRCLE_142_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M610.565,202.516
+			c0-1.174-0.951-2.126-2.125-2.126s-2.125,0.952-2.125,2.126s0.951,2.125,2.125,2.125S610.565,203.69,610.565,202.516
+			L610.565,202.516L610.565,202.516z"/>
+	</g>
+	<g id="CIRCLE_143_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M619.066,202.516
+			c0-1.174-0.952-2.126-2.126-2.126s-2.125,0.952-2.125,2.126s0.951,2.125,2.125,2.125S619.066,203.69,619.066,202.516
+			L619.066,202.516L619.066,202.516z"/>
+	</g>
+	<g id="CIRCLE_144_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M627.567,202.516
+			c0-1.174-0.951-2.126-2.125-2.126s-2.125,0.952-2.125,2.126s0.951,2.125,2.125,2.125S627.567,203.69,627.567,202.516
+			L627.567,202.516L627.567,202.516z"/>
+	</g>
+	<g id="CIRCLE_145_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M636.067,202.516
+			c0-1.174-0.951-2.126-2.125-2.126s-2.125,0.952-2.125,2.126s0.951,2.125,2.125,2.125S636.067,203.69,636.067,202.516
+			L636.067,202.516L636.067,202.516z"/>
+	</g>
+	<g id="CIRCLE_146_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M595.151,216.684
+			c0-1.174-0.952-2.125-2.126-2.125s-2.125,0.951-2.125,2.125s0.951,2.126,2.125,2.126S595.151,217.858,595.151,216.684
+			L595.151,216.684L595.151,216.684z"/>
+	</g>
+	<g id="CIRCLE_147_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M603.651,216.684
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.126,2.125,2.126S603.651,217.858,603.651,216.684
+			L603.651,216.684L603.651,216.684z"/>
+	</g>
+	<g id="CIRCLE_148_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M612.152,216.684
+			c0-1.174-0.952-2.125-2.125-2.125c-1.174,0-2.126,0.951-2.126,2.125s0.952,2.126,2.126,2.126
+			C611.2,218.81,612.152,217.858,612.152,216.684L612.152,216.684L612.152,216.684z"/>
+	</g>
+	<g id="CIRCLE_149_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M620.653,216.684
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.126,2.125,2.126S620.653,217.858,620.653,216.684
+			L620.653,216.684L620.653,216.684z"/>
+	</g>
+	<g id="CIRCLE_150_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M629.153,216.684
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.126,2.125,2.126S629.153,217.858,629.153,216.684
+			L629.153,216.684L629.153,216.684z"/>
+	</g>
+	<g id="CIRCLE_151_">
+		<path fill="none" stroke="#0000FF" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M637.655,216.684
+			c0-1.174-0.951-2.125-2.125-2.125s-2.125,0.951-2.125,2.125s0.951,2.126,2.125,2.126S637.655,217.858,637.655,216.684
+			L637.655,216.684L637.655,216.684z"/>
+	</g>
+</g>
+</svg>
